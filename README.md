@@ -5,7 +5,7 @@ algorithms to analyze factors such as length, complexity, and uniqueness to prov
 feedback on password strength.
 
 
-TASK TWO: **WEB APPLICATION PENETRATION TESTING**
+TASK TWO: **PENETRATION TESTING on vulnhub machine Kioptrix**
 Perform penetration testing on a web application to identify and exploit security
 vulnerabilities such as SQL injection, cross-site scripting (XSS), and insecure
 authentication mechanisms.
